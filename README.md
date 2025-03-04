@@ -1,2 +1,2 @@
-## getch
-# This is a repository created for practice purpose
+# getch
+### This is a repository created for practice purpose
